@@ -1,4 +1,4 @@
-![logo](https://github.com/bharatsachya/bharatsachya/blob/main/pic.png)
+![logo](https://github.com/bharatsachya/bharatsachya/blob/main/you.png)
 <h1 align="center">Hi 👋, I'm Lovanshu Garg</h1>
 <h3 align="center">Passionate FullStack developer from India</h3>
 
