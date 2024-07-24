@@ -4,7 +4,7 @@
 <h3 align="center">Passionate FullStack Developer from India</h3>
 
 <p align="left">
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right" alt="coding" width="400"><br>
+ 
   - 🌱 I’m currently learning **ReactJs, Redux, and Rest API**<br>
   - 📫 How to reach me: **bharasachya@gmail.com**
 </p>
