@@ -6,7 +6,7 @@
 <p align="left">
  
   - 🌱 I’m currently learning **ReactJs, Redux, and Rest API**<br>
-  - 📫 How to reach me: **bharasachya@gmail.com**
+  - 📫 How to reach me: **lovanshugarg22703@gmail.com**
 </p>
 
 <h3 align="left">Connect with me:</h3>
