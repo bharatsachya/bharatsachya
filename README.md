@@ -5,7 +5,7 @@
 
 <p align="left">
  
-  - 🌱 I’m currently learning **ReactJs, Redux, and Rest API**<br>
+  - 🌱 I’m passionate about building scalable solutions
   - 📫 How to reach me: **lovanshugarg22703@gmail.com**
 </p>
 
