@@ -1,7 +1,7 @@
 ![logo](https://github.com/bharatsachya/bharatsachya/blob/main/you.png)
 
 <h1 align="center">Hi 👋, I'm Lovanshu Garg</h1>
-<h3 align="center">Passionate FullStack Developer from India</h3>
+<h3 align="center">AI/ML + FullStack Collaborator</h3>
 
 <p align="left">
  
