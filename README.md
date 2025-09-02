@@ -1,6 +1,6 @@
 ![logo](https://github.com/bharatsachya/bharatsachya/blob/main/you.png)
 
-<h1 align="center">Hi 👋, I'm Lovanshu Garg</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">AI/ML + FullStack Collaborator</h3>
 
 <p align="left">
